@@ -1,0 +1,15 @@
+{
+	"prefix": "!",
+	"cmdMCUS": "mcus",
+	"cmdBWLUS": "bwlus",
+	"cmdOnyUS": "onyus",
+	"cmdZGUS": "zgus",
+	"cmdMCEU": "mceu",
+	"cmdBWLEU": "bwleu",
+	"cmdOnyEU": "onyeu",
+	"cmdZGEU": "zgeu",
+	"cmdAllUS": "allus",
+	"cmdAllEU": "alleu",
+	"cmdAllResets": "allresets",
+	"token": "NzIxNjQ4ODc0Nzc0ODU1Njkw.XuXm6g.ZJrw19Gl7GrLqZYVx5q4Nr2jnGs"
+}

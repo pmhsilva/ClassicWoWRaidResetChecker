@@ -1,0 +1,17 @@
+{
+  "name": "raidcdbot",
+  "version": "1.0.0",
+  "description": "This bot will check and inform about WoW Classic Raid Cooldowns and inform its users when are Raids resetting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
+    "xmldom": "^0.3.0"
+  }
+}
